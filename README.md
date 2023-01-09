@@ -1,14 +1,15 @@
 ![logo](https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=)
 <h1 align="center">Hi 👋, I'm Sanjay kumar</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
-<!-- <img align="right" alt="coding" width="400" src "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> -->
-<p align="left"> <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> </p>
 
+  <div>
 - 🌱 I’m currently learning **React js,MySQL,Bootstrap,Node**
 
 - 📫 How to reach me **kumarsanjay23052@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<p align="right"> <img width="300px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> </p>
+</div>
+<h3 align="left">
+Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjay-kumar-367143211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjay-kumar-367143211" height="30" width="40" /></a>
 </p>
