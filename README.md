@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software Engineer from India</h3>
 
   <div>
-- 🌱 I’m currently learning **React js,MySQL,Bootstrap,Node**
+- 🌱 I’m currently learning **Full stack Development (Mern Stack)**
 
 - 📫 How to reach me **kumarsanjay23052@gmail.com**
 <p align="right"> <img width="300px" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /> </p>
