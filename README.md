@@ -1,4 +1,4 @@
-![logo](https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.jpg?s=612x612&w=0&k=20&c=jlYes8ZfnCmD0lLn-vKvzQoKXrWaEcVypHnB5MuO-g8=)
+![logo](https://img.freepik.com/free-photo/rear-view-programmer-working-all-night-long_1098-18697.jpg?w=1060&t=st=1683707540~exp=1683708140~hmac=3ea96f61d61cfe8a97bbddd8900e521fce009647f218677ed960bab9db3eb012=)
 <h1 align="center">Hi 👋, I'm Sanjay kumar</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
